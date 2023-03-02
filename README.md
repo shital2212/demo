@@ -1,2 +1,3 @@
 # demo
+welcome to Git/GitHub training...
 demo repo
